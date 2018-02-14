@@ -21,6 +21,11 @@ The concept for this was inspired by:
 https://www.gamasutra.com/blogs/AAdonaac/20150903/252889/Procedural_Dungeon_Generation_Algorithm.php
 https://www.reddit.com/r/gamedev/comments/1dlwc4/procedural_dungeon_generation_algorithm_explained/
 
+# How to use
+
+The project will rebuild libraries the first time you open it, this should take less than a minute.
+Afterwards open scene1 and hit play. It will generate a dungeon. You can enable debug mode from the generator asset, if you enable the debugview component you can take a look on the steps. Watch the videos on my site to see how to customize further and/or create a game out of it. 
+
 # License
 CC-BY-4.0
 If you use this in your project provide proper attribution to:
