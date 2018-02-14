@@ -30,7 +30,7 @@ Afterwards open scene1 and hit play. It will generate a dungeon. You can enable 
 CC-BY-4.0
 If you use this in your project provide proper attribution to:
 
-Athos Kele www.sharpstance.com 
+Athos Kele www.sharpaccent.com 
 
 The git for the Delanauy triangulation (that one is under MIT license but be good sports and credit it regardless of that)
 https://github.com/adamgit/Unity-delaunay
