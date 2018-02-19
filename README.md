@@ -37,9 +37,13 @@ https://github.com/adamgit/Unity-delaunay
 
 
 # Patreon
-If you like more timer saver scripts and game development tutorials, consider supporting my cause on Patreon https://www.patreon.com/csharpaccent?
+If you like more timer saver scripts and game development tutorials, consider supporting my cause on Patreon 
+
+https://www.patreon.com/csharpaccent?
 
 # Follow me at
+
 https://sharpaccent.com/ 
+
 https://twitter.com/AccentTutorials
 
